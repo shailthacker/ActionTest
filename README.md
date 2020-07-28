@@ -1,2 +1,1 @@
 # ActionTest
-With label
