@@ -10,7 +10,7 @@ provider:
 
   name: aws
 
-  runtime: nodejs12.13.0
+  runtime: nodejs12.18.3
 
   environment:
 
